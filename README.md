@@ -1,1 +1,1 @@
-# The-first-Spring-application
+The application is a RESTful web service for managing bank accounts. It allows you to create new accounts through a POST request, get information about a specific account by its ID, get a list of all accounts, and delete accounts by ID. All operations work with the Account entity, using the DTO to transfer data between the client and the server.
